@@ -1,10 +1,4 @@
 ---
-name: Reporte de Bug
-about: Crie um reporte de erro para nos ajudar a melhorar o sistema
-title: '[BUG] '
-labels: 'bug'
-assignees: ''
----
 
 # BUGXX - Título do Bug
 
