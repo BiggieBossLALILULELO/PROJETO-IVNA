@@ -1,5 +1,3 @@
----
-
 # BUGXX - Título do Bug
 
 ## Descrição do Problema
